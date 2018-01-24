@@ -1,0 +1,7 @@
+*.o
+*.swp
+*.json
+*.pyc
+
+generator/trajectory_generator
+recevier/__pycache__
